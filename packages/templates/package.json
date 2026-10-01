@@ -1,0 +1,16 @@
+{
+  "name": "@portfolioforge/templates",
+  "version": "0.1.0",
+  "main": "src/index.ts",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.292.0",
+    "@portfolioforge/types": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.0.0"
+  }
+}
